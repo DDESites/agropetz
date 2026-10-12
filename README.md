@@ -1,5 +1,8 @@
 # AGROPETZ — site institucional
 
+**No ar:** https://ddesites.github.io/agropetz/ (GitHub Pages, branch `main`)
+**Repositório:** https://github.com/DDESites/agropetz
+
 Site responsivo para agropecuária e casa de ração, com identidade
 **azul-marinho + verde-menta + coral**, tipografia arredondada
 (Baloo 2 + Nunito), patinhas e formas orgânicas como detalhes.
@@ -33,6 +36,19 @@ python -m http.server 8080
 # ou: .\server.ps1   (porta 8096)
 # acesse http://localhost:8080
 ```
+
+## Como atualizar o site no ar
+
+O GitHub Pages publica automaticamente a branch `main`. Para atualizar:
+
+```powershell
+# a partir da pasta agropetz
+git add -A
+git commit -m "descreva a mudanca"
+git push
+```
+
+Em ~1 minuto o https://ddesites.github.io/agropetz/ já reflete a mudança.
 
 ## Checklist antes de publicar (seções 7 e 8 do PRD)
 

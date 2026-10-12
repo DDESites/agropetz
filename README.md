@@ -58,9 +58,8 @@ Em ~1 minuto o https://ddesites.github.io/agropetz/ já reflete a mudança.
 - [x] **Endereço** — Quadra 28, Jardim Brasília II — Águas Lindas de Goiás/GO,
       CEP 72917-567. Iframe do Google Maps e links de rota já estão nos
       blocos `.mapa` das páginas início e contato.
-- [ ] **Horários de funcionamento** — abertura (08:00) confirmada via
-      Google Maps; **falta confirmar o horário de fechamento e os dias** —
-      quando confirmar, remova os selos **a confirmar** nas 4 páginas.
+- [x] **Horários de funcionamento** — todos os dias, das 08:00 às 20:00
+      (confirmado pela loja). Site sem selos "a confirmar".
 - [x] **Redes sociais** — Instagram configurado no rodapé das 4 páginas:
       `instagram.com/agropetz20`. (Facebook: removido por não ter página
       confirmada; basta religar o botão no rodapé se existir.)
